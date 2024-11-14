@@ -1,14 +1,21 @@
 # Kaggle Competitions Repository
 
-Bienvenido a mi repositorio de competiciones de Kaggle. En este espacio, encontrarás diferentes carpetas que contienen el código y la documentación del proceso de creación de los modelos con los que he participado en diversas competiciones de Kaggle.
+- Bienvenido a mi repositorio de competiciones de Kaggle. En este espacio, encontrarás diferentes carpetas que contienen el código y la documentación del proceso de creación de los modelos con los que he participado en diversas competiciones de Kaggle.
+
+- Generalmente estan completadas con código de python y las diversas bibliotecas de ML.
+
+# Badges
+
+![Texto alternativo](images/badges_kaggle.png)
 
 ## Contenido del Repositorio
 
 Este repositorio está estructurado de la siguiente manera:
 
-- `/competencia-1`: Documentación y código de la primera competencia.
-- `/competencia-2`: Documentación y código de la segunda competencia.
-- `/competencia-3`: Documentación y código de la tercera competencia.
+- `/TuMejorPortatil.com`: Documentación y código de la primera competencia.
+- `/¡EnseñameLaPasta!`: Documentación y código de la segunda competencia.
+- `/ExploringMentalHealth`: Documentación y código de la tercera competencia.
+- `/DigitRecognizer`: Documentación y código de la tercera competencia.
 
 ## Cómo Usar Este Repositorio
 
