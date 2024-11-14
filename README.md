@@ -6,7 +6,7 @@
 
 # Badges
 
-![Texto alternativo](images/badges_kaggle.png)
+![Badges_obtenidas](Images/badges_kaggle.png)
 
 ## Contenido del Repositorio
 
