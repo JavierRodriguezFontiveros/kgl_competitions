@@ -42,3 +42,12 @@ def diving_data(train, test, submission):
 
 # Ejemplo de uso:
 # diving_data(train, test, submission)
+
+
+
+
+import numpy as np
+missing_values = ['none', 'missing', '?', 'NA', 'null', 'na', 'undefined', 'N/A', 'none']
+
+def replace_missing_values(df):
+    return df.applymap(lambda x: np.nan if str(x).lower() in missing_values else x)
