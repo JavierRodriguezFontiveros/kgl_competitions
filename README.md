@@ -15,7 +15,7 @@ Este repositorio está estructurado de la siguiente manera:
 - `/TuMejorPortatil.com`: Documentación y código de la primera competencia.
 - `/¡EnseñameLaPasta!`: Documentación y código de la segunda competencia.
 - `/ExploringMentalHealth`: Documentación y código de la tercera competencia.
-- `/DigitRecognizer`: Documentación y código de la tercera competencia.
+- `/DigitRecognizer`: Documentación y código de la cuarta competencia.
 
 ## Cómo Usar Este Repositorio
 
