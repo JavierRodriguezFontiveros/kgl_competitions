@@ -16,6 +16,7 @@ Este repositorio está estructurado de la siguiente manera:
 - `/¡EnseñameLaPasta!`: Documentación y código de la segunda competencia.
 - `/ExploringMentalHealth`: Documentación y código de la tercera competencia.
 - `/DigitRecognizer`: Documentación y código de la cuarta competencia.
+- `/ChessAgent`: Documentación y código de la quinta competencia.
 
 ## Cómo Usar Este Repositorio
 
