@@ -18,6 +18,12 @@ Este repositorio está estructurado de la siguiente manera:
 - `/DigitRecognizer`: Documentación y código de la cuarta competencia.
 - `/ChessAgent`: Documentación y código de la quinta competencia.
 
+
+## Cursos
+
+![cursos_completados](Images/cursos.png)
+
+
 ## Cómo Usar Este Repositorio
 
 1. **Clonar el Repositorio**: 
